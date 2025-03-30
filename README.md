@@ -83,8 +83,8 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 <div align="center">
   <h3>Watch my contributions eaten by Snake</h3>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xEtherPunk/0xEtherPunk/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xEtherPunk/0xEtherPunk/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0xEtherPunk/0xEtherPunk/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/being-snehil/being-snehil/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/being-snehil/being-snehil/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/being-snehil/being-snehil/output/github-snake.svg">
 </picture>
 </div>
