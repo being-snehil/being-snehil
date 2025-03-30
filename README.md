@@ -10,20 +10,20 @@
 <a target="_blank" href="https://www.linkedin.com/in/snehil-verma-1b685b252/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:snehilverma607@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="/"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-<--<a target="_blank" href="https://leetcode.com/amanaggarwal065/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></img></a> -->
+<a target="_blank" href="https://leetcode.com/amanaggarwal065/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></img></a>
 
-<img align="right" title="Snehil verma" alt="Snehil verma" width="400" src="./logos/animation.gif" />
+<img align="right" title="Snehil verma" alt="Snehil verma" width="400" src="https://media1.tenor.com/m/-NXBw7OjJDoAAAAC/ryuga-dragon.gif" />
 
 <h3 style=>
 Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 </h3>
 
-* 🌱 I’m currently learning Deep Learning & DSA.
+* 🌱 I’m currently learning Web Development & DSA.
 * 👯 I’m looking to collaborate on Full Stack Web Development. 
 * 🤝 I'm Looking for help with DSA.
 * 🌌 Ask me about anything, I am happy to help :)
 * 😄 Pronouns: He/Him 
-* ⚡ Fun fact: I play piano 🤪 
+* ⚡ Fun fact: I play badminton 🤪 
 
 <h3>
 :man_technologist:Technologies and tools:rocket: <br>
@@ -65,15 +65,12 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 <br>
 
 ## Some Stats:
-<p align="center">
-<a href="https://github.com/being-snehil">
-<img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=being-snehil&theme=omni&hide_border=true&include_all_commits=true&hide_title=true" />
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=being-snehil&layout=compact&theme=omni&hide_border=true&hide_title=true" />
-<br>
-<br>
-</a>
-</p>
-<p align="center"><a href="https://github.com/amanaggarwal06"><img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=amanaggarwal06&show_icons=true&theme=radical" alt="amanaggarwal06"></a></p>
+<!-- Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=being-snehil&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=being-snehil&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=being-snehil&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+</div>
 
 <p align="center">
     :arrow_down: Scroll down to see my top repositories :arrow_down:
@@ -82,6 +79,13 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
       Show some ❤️ by starring some of the repositories!
     </b>
 </p>
+
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/being-snehil/being-snehil/blob/output/github-snake-dark.svg)
+</div>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
