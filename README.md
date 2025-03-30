@@ -72,21 +72,10 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=being-snehil&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
-<p align="center">
-    :arrow_down: Scroll down to see my top repositories :arrow_down:
-    <br>
-    <b>
-      Show some ❤️ by starring some of the repositories!
-    </b>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=being-snehil&theme=react-dark&bg_color=20232a&hide_border=true&area=true&area_color=A177FE&point=fff&line=A177FE&radius=8&height=300&custom_title=Snehil's%20Contribution%20Graph&days=45" width="100%"/>
 
-<!-- Snake Animation -->
-<div align="center">
-    
-  ![snake gif](https://github.com/being-snehil/being-snehil/blob/output/github-snake-dark.svg)
-</div>
+<a style="display: flex; align-items: center;">
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=being-snehil&theme=dark" alt="GitHub Profile Summary" style="margin-bottom: 10px;" />
+</a>
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
-</p>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=being-snehil&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophy" />
