@@ -9,8 +9,8 @@
 
 <a target="_blank" href="https://www.linkedin.com/in/snehil-verma-1b685b252/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:snehilverma607@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="/"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-<a target="_blank" href="https://leetcode.com/amanaggarwal065/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></img></a>
+<a target="_blank" href="https://x.com/being_snehil?t=6EU1CPS_6-dnnB_uRuTf7w&s=09"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank" href="https://leetcode.com/being-snehil/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></img></a>
 
 <img align="right" title="Snehil verma" alt="Snehil verma" width="400" src="https://media1.tenor.com/m/-NXBw7OjJDoAAAAC/ryuga-dragon.gif" />
 
